@@ -1,0 +1,18 @@
+{
+	"name": "anstech-fuelphp/saas",
+	"description" : "FuelPHP 1.x SaaS Package",
+	"type": "fuel-package",
+	"homepage": "https://github.com/anstokes/fuelphp-saas",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Adrian Stokes",
+			"email": "adrian@anstech.co.uk"
+		}
+	],
+	"require": {
+		"php": ">=7.2",	
+		"composer/installers": "~1.0",
+		"lcobucci/jwt": "^5.1"
+	}
+}
